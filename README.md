@@ -29,3 +29,12 @@ What are the highest-rated Disney and Pixar movies based on IMDb scores, and how
 
 ## Author
 Anjolina Capers
+
+## Citations
+- IMDb Datasets. [https://datasets.imdbws.com/](https://datasets.imdbws.com/)  
+  The data for this project was retrieved from IMDb, an online database of information related to films, television programs, home videos, video games, and streaming content.  
+  IMDb does not endorse or sponsor this project.
+
+- ChatGPT (OpenAI).  
+  Assistance with data cleaning, Python scripting, Git/GitHub, and project planning was provided using ChatGPT.  
+  Accessed May 2025.
